@@ -1,6 +1,8 @@
 <h1 align="center">Conception d'un prototype répondant aux besoins des utilisateurs avec l'approche Lean UX</h1>
 En tant que Product Manager, j'ai mené un projet complet de conception de produit en utilisant l'approche Lean UX, de l'identification du problème à la validation du prototype par les utilisateurs.<br><br>
 
+[Présentation Canva](https://www.canva.com/design/DAGQSs2Qccc/xtUdzse9cKQBzScfxuaA5A/view?utm_content=DAGQSs2Qccc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 ## 🎯 Objectifs et défis
 
 1. Identifier un problème réel et des profils d'utilisateurs cibles.
@@ -14,10 +16,10 @@ En tant que Product Manager, j'ai mené un projet complet de conception de produ
 1. **Analyse de marché et identification des besoins** :
    - Élaboration d'un Lean UX Canvas pour cadrer le projet.
    - Création de personas détaillés pour les marchés B2C et B2B.
-   - Conception et diffusion d'un questionnaire de présélection (10-20 questions).
+   - Conception et diffusion d'un questionnaire de présélection.
 
 2. **Analyse concurrentielle et positionnement** :
-   - Réalisation d'un benchmark approfondi (3-5 concurrents).
+   - Réalisation d'un benchmark approfondi.
    - Élaboration d'une analyse SWOT pour identifier les facteurs différenciants.
 
 3. **Conception et prototypage de produit** :
@@ -26,7 +28,7 @@ En tant que Product Manager, j'ai mené un projet complet de conception de produ
 
 4. **Test et validation des hypothèses** :
    - Élaboration d'un guide d'entretien pour les tests utilisateurs.
-   - Conduite d'entretiens qualitatifs avec 1-2 utilisateurs cibles.
+   - Conduite d'entretiens qualitatifs avec plusieurs utilisateurs cibles.
    - Analyse et synthèse des résultats des tests.
 
 5. **Gestion de projet agile et Lean UX** :
