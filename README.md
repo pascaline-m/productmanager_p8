@@ -1,7 +1,6 @@
 <h1 align="center">Conception d'un prototype répondant aux besoins des utilisateurs avec l'approche Lean UX</h1>
 En tant que Product Manager, j'ai mené un projet complet de conception de produit en utilisant l'approche Lean UX, de l'identification du problème à la validation du prototype par les utilisateurs.<br><br>
 
-[Présentation Canva](https://www.canva.com/design/DAGQSs2Qccc/xtUdzse9cKQBzScfxuaA5A/view?utm_content=DAGQSs2Qccc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## 🎯 Objectifs et défis
 
