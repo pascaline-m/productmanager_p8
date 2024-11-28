@@ -1,7 +1,9 @@
 <h1 align="center">Conception d'un prototype répondant aux besoins des utilisateurs avec l'approche Lean UX</h1>
 En tant que Product Manager, j'ai mené un projet complet de conception de produit en utilisant l'approche Lean UX, de l'identification du problème à la validation du prototype par les utilisateurs.<br><br>
 
-
+[🖇️ Présentation Canva](https://www.canva.com/design/DAGQSs2Qccc/xtUdzse9cKQBzScfxuaA5A/view?utm_content=DAGQSs2Qccc&utm_campaign=designshare&utm_medium=link&utm_source=editor) <br>
+Prototype no-code: 🐾[Pawsplorer](https://pawsplorer.glide.page/)🐾
+<br><br>
 ## 🎯 Objectifs et défis
 
 1. Identifier un problème réel et des profils d'utilisateurs cibles.
@@ -14,7 +16,7 @@ En tant que Product Manager, j'ai mené un projet complet de conception de produ
 
 1. **Analyse de marché et identification des besoins** :
    - Élaboration d'un Lean UX Canvas pour cadrer le projet.
-   - Création de personas détaillés pour les marchés B2C et B2B.
+   - Création de personas détaillés pour les marchés B2B.
    - Conception et diffusion d'un questionnaire de présélection.
 
 2. **Analyse concurrentielle et positionnement** :
@@ -34,4 +36,4 @@ En tant que Product Manager, j'ai mené un projet complet de conception de produ
    - Application de la méthodologie Lean UX tout au long du processus.
    - Itération sur le Lean UX Canvas basée sur les apprentissages.
 
-Ce projet m'a permis de développer des compétences cruciales en conception de produit centrée sur l'utilisateur, notamment la capacité à rapidement valider des hypothèses de marché, à concevoir des solutions minimales viables, et à itérer sur la base de retours utilisateurs concrets. J'ai également renforcé mes compétences en analyse de marché, en prototypage rapide, et en conduite d'entretiens utilisateurs, essentielles pour assurer le développement de produits réellement désirables et utilisables.
+Ce projet m'a permis de développer des compétences cruciales en conception de produit centrée sur l'utilisateur, notamment la capacité à rapidement valider des hypothèses de marché, à concevoir des solutions minimales viables et à itérer sur la base de retours utilisateurs concrets. J'ai également renforcé mes compétences en analyse de marché, en prototypage rapide, et en conduite d'entretiens utilisateurs, essentielles pour assurer le développement de produits réellement désirables et utilisables.
